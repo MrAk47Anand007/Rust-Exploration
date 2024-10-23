@@ -1,4 +1,3 @@
-```md
 # Rust Day 1 Learning
 
 ## 1. Setup Rust
