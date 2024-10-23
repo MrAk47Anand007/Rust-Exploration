@@ -71,4 +71,3 @@ fn subtraction(x: i32, y: i32) -> i32 {
 - **`.trim()`** removes any whitespace or newline characters.
 - **`.parse::<i32>().unwrap()`** parses the input string into a 32-bit integer and handles potential errors.
 - **`stdout().flush()`** is used to clear the output buffer before printing.
-```
