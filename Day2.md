@@ -1,4 +1,5 @@
-```md
+
+
 # Rust Day 2 Learning
 
 ## 1. Loops in Rust
