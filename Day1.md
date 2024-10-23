@@ -1,5 +1,3 @@
-Here's a Markdown-formatted version of your Day 1 learning in Rust:
-
 ```md
 # Rust Day 1 Learning
 
